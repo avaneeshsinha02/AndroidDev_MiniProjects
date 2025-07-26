@@ -1,0 +1,1 @@
+soundId = soundPool.load(this, R.raw.sound_clip, 1);
